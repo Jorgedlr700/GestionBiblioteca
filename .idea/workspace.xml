@@ -4,15 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d02a2e1-b116-440b-bca5-f7013be19f16" name="Changes" comment="" />
+    <list default="true" id="4d02a2e1-b116-440b-bca5-f7013be19f16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/ConexionBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/controlador/LectorControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/controlador/LectorControlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/controlador/LibroControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/controlador/LibroControlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/gestor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/gestor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/Lector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/Lector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/LectorDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/LectorDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/LibroDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/modelo/LibroDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Biblioteca/vista/ControladorVista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Biblioteca/vista/ControladorVista.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jorgedlr700"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jorgedlr700/GestionBiblioteca.git",
+    "accountId": "bd19f328-aac7-4658-be45-e04c8f23d0bb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2xdRtToKw11cQDc8vmUf09lA6Lb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,7 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Desarrollo",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
