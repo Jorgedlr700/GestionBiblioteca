@@ -1,9 +1,5 @@
 package Biblioteca.controlador;
 
-
-
-
-
 import Biblioteca.modelo.Libro;
 import Biblioteca.modelo.LibroDAO;
 import Biblioteca.consola.ControladorConsola;

@@ -1,7 +1,5 @@
 package Biblioteca.modelo;
 
-
-
 public class Lector {
     private int id;
     private String nombre;

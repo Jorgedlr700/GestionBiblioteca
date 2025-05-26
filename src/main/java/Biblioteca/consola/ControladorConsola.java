@@ -1,9 +1,5 @@
 package Biblioteca.consola;
 
-
-
-
-
 import java.util.Scanner;
 
 public class ControladorConsola {

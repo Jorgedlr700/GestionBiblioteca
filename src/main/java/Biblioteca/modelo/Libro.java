@@ -1,6 +1,5 @@
 package Biblioteca.modelo;
 
-
 public class Libro {
     private int id;
     private String titulo;

@@ -1,8 +1,5 @@
 package Biblioteca.gestor;
 
-
-
-
 import Biblioteca.controlador.LibroControlador;
 import Biblioteca.controlador.LectorControlador;
 import Biblioteca.modelo.LibroDAO;
