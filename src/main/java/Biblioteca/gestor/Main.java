@@ -7,11 +7,11 @@ import Biblioteca.controlador.LibroControlador;
 import Biblioteca.controlador.LectorControlador;
 import Biblioteca.modelo.LibroDAO;
 import Biblioteca.modelo.LectorDAO;
-import Biblioteca.vista.ControladorVista;
+import Biblioteca.consola.ControladorConsola;
 
 public class Main {
     public static void main(String[] args) {
-        ControladorVista vista = new ControladorVista();
+        ControladorConsola vista = new ControladorConsola();
         LibroDAO libroDAO = new LibroDAO();
         LectorDAO lectorDAO = new LectorDAO();
 

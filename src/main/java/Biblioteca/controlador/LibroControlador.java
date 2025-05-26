@@ -6,16 +6,16 @@ package Biblioteca.controlador;
 
 import Biblioteca.modelo.Libro;
 import Biblioteca.modelo.LibroDAO;
-import Biblioteca.vista.ControladorVista;
+import Biblioteca.consola.ControladorConsola;
 
 import java.util.List;
 
 public class LibroControlador {
 
     private LibroDAO libroDAO;
-    private ControladorVista vista;
+    private ControladorConsola vista;
 
-    public LibroControlador(LibroDAO libroDAO, ControladorVista vista) {
+    public LibroControlador(LibroDAO libroDAO, ControladorConsola vista) {
         this.libroDAO = libroDAO;
         this.vista = vista;
     }

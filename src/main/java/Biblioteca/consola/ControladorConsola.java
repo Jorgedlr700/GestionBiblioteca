@@ -1,4 +1,4 @@
-package Biblioteca.vista;
+package Biblioteca.consola;
 
 
 
@@ -6,11 +6,11 @@ package Biblioteca.vista;
 
 import java.util.Scanner;
 
-public class ControladorVista {
+public class ControladorConsola {
 
     private Scanner scanner;
 
-    public ControladorVista() {
+    public ControladorConsola() {
         scanner = new Scanner(System.in);
     }
 

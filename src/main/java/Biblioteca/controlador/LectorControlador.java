@@ -5,16 +5,16 @@ package Biblioteca.controlador;
 
 import Biblioteca.modelo.Lector;
 import Biblioteca.modelo.LectorDAO;
-import Biblioteca.vista.ControladorVista;
+import Biblioteca.consola.ControladorConsola;
 
 import java.util.List;
 
 public class LectorControlador {
 
     private LectorDAO lectorDAO;
-    private ControladorVista vista;
+    private ControladorConsola vista;
 
-    public LectorControlador(LectorDAO lectorDAO, ControladorVista vista) {
+    public LectorControlador(LectorDAO lectorDAO, ControladorConsola vista) {
         this.lectorDAO = lectorDAO;
         this.vista = vista;
     }
