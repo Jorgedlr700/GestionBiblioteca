@@ -1,4 +1,4 @@
-package Biblioteca.consola;
+package Biblioteca.vista;
 
 import java.util.Scanner;
 

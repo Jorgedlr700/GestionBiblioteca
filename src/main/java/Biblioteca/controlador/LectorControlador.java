@@ -2,7 +2,7 @@ package Biblioteca.controlador;
 
 import Biblioteca.modelo.Lector;
 import Biblioteca.modelo.LectorDAO;
-import Biblioteca.consola.ControladorConsola;
+import Biblioteca.vista.ControladorConsola;
 
 import java.util.List;
 

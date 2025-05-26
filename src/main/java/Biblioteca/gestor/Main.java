@@ -4,7 +4,7 @@ import Biblioteca.controlador.LibroControlador;
 import Biblioteca.controlador.LectorControlador;
 import Biblioteca.modelo.LibroDAO;
 import Biblioteca.modelo.LectorDAO;
-import Biblioteca.consola.ControladorConsola;
+import Biblioteca.vista.ControladorConsola;
 
 public class Main {
     public static void main(String[] args) {
